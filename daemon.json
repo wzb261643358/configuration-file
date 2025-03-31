@@ -1,0 +1,5 @@
+{
+"data-root": "/opt/",
+ "registry-mirrors": [ "https://06779614750026470ff5c0053c207780.mirror.swr.myhuaweicloud.com" ],
+"log-level": "warn"
+}
